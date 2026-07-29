@@ -113,8 +113,8 @@ These figures reflect reported data available in the dataset and should not be i
 covid-19-sql-data-exploration/
 │
 ├── README.md
-├── sql/
+├── SQL/
 │   └── covid_19_data_exploration.sql
-└── data/
+└── Data/
     ├── covid_deaths.csv
     └── covid_vaccinations.csv
