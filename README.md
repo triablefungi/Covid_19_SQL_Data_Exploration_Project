@@ -10,7 +10,7 @@ The dataset covers the period from **1 January 2020 to 30 April 2021** and conta
 
 ## Dashboard
 
-![COVID-19 Tableau Dashboard](Tableau/Covid 19 Dashboard Preview.png)
+![COVID-19 Tableau Dashboard](Tableau/covid_19_dashboard_preview.png)
 
 ### Interactive Dashboard
 
