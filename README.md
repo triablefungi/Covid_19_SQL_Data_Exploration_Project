@@ -161,7 +161,7 @@ Based on data through 30 April 2021:
 ## Repository Structure
 
 ```text
-covid-19-sql-tableau-analysis/
+Covid_19_SQL_and_Tableau_Data_Exploration_and_Analysis_Project/
 │
 ├── README.md
 │
