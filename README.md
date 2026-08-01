@@ -197,7 +197,7 @@ Covid_19_SQL_and_Tableau_Data_Exploration_and_Analysis_Project/
 
 ### Tableau dashboard
 
-1. Download `covid_19_tableau_dashboard.twbx`.
+1. Download `Covid 19 Tableau Dashboard.twbx`.
 2. Open the packaged workbook using Tableau Desktop or Tableau Public.
 3. Alternatively, use the Tableau Public link above to view the interactive dashboard online.
 
